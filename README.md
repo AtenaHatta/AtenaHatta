@@ -1,10 +1,9 @@
-
 <!--- Status --->
 ![Atena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtenaHatta&show_icons=true&theme=radical)
 
 
  <!--- languages --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--- Contact --->

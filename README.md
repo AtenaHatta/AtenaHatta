@@ -14,7 +14,6 @@
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdin" height="30" width="40" />
   </a>
   
-    
   <!--  facebook -->
   <a href="https://www.facebook.com/atena333/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />

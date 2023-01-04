@@ -10,8 +10,8 @@
  <p align="left">
   
   <!-- Linkdin  -->
-　<a href="https://linkedin.com/in/atena-363590247" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdin" height="30" width="40" />
+<a href="https://linkedin.com/in/www.linkedin.com/in/atena-363590247" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atena-363590247" height="30" width="40" />
   </a>
   
   <!--  facebook -->

@@ -1,7 +1,7 @@
 <h3>A Front end developer</h3>
 
 <ul>
-  <li>📩 Reach me from <a href="mailto:ah041102@gmail.com">here</a></li>
+  <li>📩 Contact <a href="mailto:ah041102@gmail.com">me</a></li>
   <li>👩‍💻 All of my projects are available on my portfolio website</li>
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atena-363590247/" target="blank">LinkedIn</a></li>
 </ul>

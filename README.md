@@ -4,18 +4,6 @@
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atena-363590247/" target="blank">LinkedIn</a></li>
 </ul>
 
-<!--- Status & lamguage --->
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=AtenaHatta&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni" />
-</p>
-  
-  <!-- Linkdin  -->
-<a href="https://www.linkedin.com/in/atena-363590247/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atena-363590247" height="30" width="40" />
-  </a>
-
-
 <!--- Skillｓ --->
 <h3 align="left">Languages and Tools</h3>
  <p align="left">
@@ -69,6 +57,11 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    </a>
- 
+</p>
+
+<!--- Status & lamguage --->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=AtenaHatta&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni" />
 </p>
 <br>

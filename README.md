@@ -1,30 +1,19 @@
+<ul>
+  <li>📫 How to reach me: ah041102@gmail.com</li>
+  <li>👩‍💻 All of my projects are available on my portfolio website</li>
+  <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atena-363590247/" target="blank">LinkedIn</a></li>
+</ul>
+
 <!--- Status & lamguage --->
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=AtenaHatta&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni" />
 </p>
-
-
-<!--- Contact --->
-<h3 align="left">Connect with me</h3>
- <p align="left">
   
   <!-- Linkdin  -->
-<a href="https://linkedin.com/in/www.linkedin.com/in/atena-363590247" target="blank">
+<a href="https://www.linkedin.com/in/atena-363590247/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atena-363590247" height="30" width="40" />
   </a>
-  
-  <!--  facebook -->
-  <a href="https://www.facebook.com/atena333/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-    
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/atn02333h/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
- </p>
-
 
 
 <!--- Skillｓ --->

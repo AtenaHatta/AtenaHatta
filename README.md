@@ -11,6 +11,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,materialui,bootstrap,git,figma" />
  </a>
+<br>
 
 <!--- Status & lamguage --->
 <p align="left"> 

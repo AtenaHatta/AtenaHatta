@@ -13,7 +13,7 @@
 <!--- Language --->
 <h3 align="left">Languages and Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,materialui,bootstrap,jQuery,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,materialui,bootstrap,git,figma" />
  </a>
 
 <!--- Status & lamguage --->

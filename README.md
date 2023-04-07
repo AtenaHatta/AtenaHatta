@@ -1,4 +1,4 @@
-<h3>A Front end developer</h3>
+<h3>A FRONT END DEVELOPER</h3>
 
 <ul>
   <li>👩‍💻 All of my projects are available on my portfolio website</li>
@@ -7,7 +7,7 @@
 </ul>
 
 <!--- Skills --->
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">LANGUAGE AND TOOLS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,sass,materialui,bootstrap,html,css,git,figma" />
  </a>

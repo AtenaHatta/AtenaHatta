@@ -9,7 +9,7 @@
 <!--- Skills --->
 <h3 align="left">Languages and Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,sass,materialui,bootstrap,html,css,git,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,react,js,tailwind,sass,materialui,bootstrap,html,css,git,figma" />
  </a>
 <br>
 

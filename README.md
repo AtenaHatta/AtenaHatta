@@ -3,7 +3,7 @@
 <ul>
   <li>👩‍💻 All of my projects are available on my portfolio website</li>
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>
-  <li>📩 Contact <a href="mailto:hattaatena@gmail.com">me</a></li>
+  <li>📭 Contact <a href="mailto:hattaatena@gmail.com">me</a></li>
 </ul>
 
 <!--- Skills --->

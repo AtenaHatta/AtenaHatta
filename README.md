@@ -6,13 +6,14 @@
   <li>📩 Contact <a href="mailto:hattaatena@gmail.com">me</a></li>
 </ul>
 
-<!--- Skillｓ --->
+<!--- Skills --->
 <h3 align="left">Languages and Tools</h3>
  <p align="left">
   
-  
+<!--- Language --->
+<h3 align="left">Languages and Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,router,tailwind,sass,materialui,styled-component,bootstrap,jQuery,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,materialui,bootstrap,jQuery,git,figma" />
  </a>
 
 <!--- Status & lamguage --->

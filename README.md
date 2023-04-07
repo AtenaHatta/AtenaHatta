@@ -10,6 +10,13 @@
 <h3 align="left">Languages and Tools</h3>
  <p align="left">
   
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,graphql,tailwind,sass,materialui,bootstrap,nodejs,express,mongo,firebase,docker" />
+ </a>
+
+  
+  
    <!-- JS  -->
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>

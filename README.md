@@ -9,7 +9,7 @@
 <!--- Skills --->
 <h3 align="left">LANGUAGE AND TOOLS</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,docker,tailwind,sass,materialui,bootstrap,html,css,vercel,netlify,git,figma" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,docker,jquery,tailwind,sass,materialui,bootstrap,html,css,vercel,netlify,git,figma" />
  </a>
 <br>
 

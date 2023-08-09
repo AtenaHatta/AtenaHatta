@@ -9,8 +9,9 @@
 <!--- Skills --->
 <h3 align="left">LANGUAGE AND TOOLS</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,docker,supabase,materialui,styledcomponents" />
-   <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,sass,bootstrap,html,css,vercel,netlify,git,figma" />
+   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,docker,supabase" />
+  <br/>
+   <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass,bootstrap,css,html,git,figma" />
  </a>
 <br>
 

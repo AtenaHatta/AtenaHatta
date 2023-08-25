@@ -1,4 +1,4 @@
- <h3>A FRONT END DEVELOPER</h3> 
+ <h3>A FRONT END DEVELOPER</h3>
 
 <ul>
   <li>👩‍💻 All of my projects are available on <a href="https://atenahatta.vercel.app/">my portfolio</a></li>

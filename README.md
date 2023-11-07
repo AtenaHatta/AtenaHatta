@@ -1,15 +1,21 @@
- <h3>A FRONT END DEVELOPER</h3>
+ <h3>FRONT-END DEVELOPER</h3>
 
 <ul>
 <!--   <li>👩‍💻 All of my projects are available on <a href="https://portfolio-nextjs-atenahatta.vercel.app/">my Portfolio</a></li> -->
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>
   <li>📭 Contact <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li> 
 </ul>
+</br>
 
 <!--- Project --->
-☕️ Youtube clone application
-Description: Full-stack application with Google Youtube API
+ <h3>MY PROJECT</h3>
+🎬 <a href="https://github.com/AtenaHatta/MyYouTube">Youtube clone App</a>
+</br>
+Full-stack application with Google Youtube API
+</br>
 Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
+</br>
+</br>
 
 <!--- Skills --->
 <h3 align="left">LANGUAGE AND TOOLS</h3>

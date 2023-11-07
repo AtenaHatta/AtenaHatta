@@ -14,7 +14,6 @@ Full-stack application with Google Youtube API
 </br>
 Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
 </br>
-</br>
 
 <!--- Skills --->
 <h3 align="left">LANGUAGE AND TOOLS</h3>

@@ -5,7 +5,6 @@
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>
   <li>📭 Contact <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li> 
 </ul>
-</br>
 
 <!--- Project --->
  <h3>MY PROJECT</h3>

@@ -6,6 +6,11 @@
   <li>📭 Contact <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li> 
 </ul>
 
+<!--- Project --->
+☕️ Youtube clone application
+Description: Full-stack application with Google Youtube API
+Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
+
 <!--- Skills --->
 <h3 align="left">LANGUAGE AND TOOLS</h3>
   <a href="https://skillicons.dev">
@@ -21,3 +26,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni" />
 </p>
 <br>
+

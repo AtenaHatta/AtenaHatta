@@ -10,7 +10,10 @@
  <h3>MY PROJECT</h3>
 🎬 <a href="https://github.com/AtenaHatta/MyYouTube">Youtube clone App</a>
 </br>
-Full-stack application with RestAPI
+Do you want to watch YouTube without ads? 
+This app allows you to view YouTube without ads and create your own favorite list.
+</br>
+This is a Full-stack application with RestAPI.
 </br>
 Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
 </br>

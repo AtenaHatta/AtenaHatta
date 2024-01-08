@@ -3,7 +3,6 @@
 <ul>
 <!--   <li>👩‍💻 All of my projects are available on <a href="https://portfolio-nextjs-atenahatta.vercel.app/">my Portfolio</a></li> -->
   <li>👔 Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>
- <li>📝 The article that I wrote on <a href="https://medium.com/@atn041102">Medium</a></li>
    <li>📭 Contact: <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li>
 </ul>
 

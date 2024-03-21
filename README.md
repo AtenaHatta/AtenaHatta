@@ -27,13 +27,15 @@ Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
   <br/>
    <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass,bootstrap,css,html,git,figma" />
  </a>
-<be>
+<br>
 --->
 
 <!--- Status & lamguage --->
+<!--- 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=AtenaHatta&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni" />
 </p>
 <br>
+--->
 

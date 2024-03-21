@@ -17,15 +17,18 @@ This is a Full-stack application with RestAPI.
 </br>
 Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
 </br>
+</br>
 
 <!--- Skills --->
+<!--- 
 <h3 align="left">LANGUAGE AND TOOLS</h3>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,docker,supabase" />
   <br/>
    <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass,bootstrap,css,html,git,figma" />
  </a>
-<br>
+<be>
+--->
 
 <!--- Status & lamguage --->
 <p align="left"> 

@@ -2,8 +2,9 @@
 
 <ul>
 <!--   <li>👩‍💻 All of my projects are available on <a href="https://portfolio-nextjs-atenahatta.vercel.app/">my Portfolio</a></li> -->
-  <li> Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>　
+  <li> Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>
   <li> Contact: <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li>
+  <li> Check out my <a href="https://portfolio-nextjs-atenahatta.vercel.app/" target="blank">Portfolio</a></li>　
 </ul>
 
 <!--- Project --->

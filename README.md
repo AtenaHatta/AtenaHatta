@@ -7,6 +7,10 @@
    <li> Contact: <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li>
 </ul>
 
+<!--- Teck stack --->
+ <h3>Teck stack</h3>
+ 
+
 <!--- Project --->
  <h3>MY PROJECT</h3>
 <a href="https://github.com/AtenaHatta/MyYouTube">Youtube clone App</a>

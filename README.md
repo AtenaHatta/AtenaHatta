@@ -1,4 +1,4 @@
- <h3>FRONT-END DEVELOPER</h3>　
+ <h3>FRONT-END DEVELOPER</h3>
 
 <ul>
 <!--   <li>👩‍💻 All of my projects are available on <a href="https://portfolio-nextjs-atenahatta.vercel.app/">my Portfolio</a></li> -->

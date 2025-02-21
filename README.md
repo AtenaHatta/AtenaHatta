@@ -8,6 +8,7 @@
 </ul>
 
 <!--- Project --->
+<!--- 
  <h3>MY PROJECT</h3>
 <a href="https://github.com/AtenaHatta/MyYouTube">Youtube clone App</a>
 </br>
@@ -18,7 +19,7 @@ This is a Full-stack application with RestAPI.
 Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
 </br>
 </br>
-
+--->
 <!--- Skills --->
 <!--- 
 <h3 align="left">LANGUAGE AND TOOLS</h3>
@@ -36,5 +37,4 @@ Tech stack:  React, Node.js, express, MondoDB, TailwindCSS
   <img alt="github stats" height="150px" src="https://github-readme-stats-bay-zeta-85.vercel.app/api/top-langs/?username=AtenaHatta&layout=compact&theme=omni" />
 </p>
 --->
-<br>
 
